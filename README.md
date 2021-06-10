@@ -1,6 +1,12 @@
 # weather_app
 
-A new Flutter project.
+Flutter app using Open weather API. It gives you the temperature,climate description and country name for a searched city.
+Simple app for API integration.
+
+Screenshots:
+
+![Screenshot (457)](https://user-images.githubusercontent.com/70195348/121572772-273ea000-ca42-11eb-9a00-be91edf88a18.png)
+
 
 ## Getting Started
 
